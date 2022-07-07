@@ -1,8 +1,0 @@
-ActivityID,ClientVersion,ConditionType1,ConditionValue11,ConditionValue12,ConditionType2,ConditionValue21,ConditionValue22,ConditionType3,ConditionValue31,ConditionValue32,DropBagID
-活动id,客户端版本号,条件1,条件值11,条件值12,条件2,条件值21,条件值22,条件3,条件值31,条件值32,掉落包
-uint32(key),string(32),uint32,uint32,uint32,uint32,uint32,uint32,uint32,uint32,uint32,uint32
-all,all,all,all,all,all,all,all,all,all,all,all
-uniq,,,,,,,,,,,
-,,,,,,,,,,,
-Global,Global,Global,Global,Global,Global,Global,Global,Global,Global,Global,Global
-1000001,,1,1,0,0,0,0,0,0,0,0
